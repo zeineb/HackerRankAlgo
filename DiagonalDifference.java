@@ -34,6 +34,9 @@ public class Solution {
                             dg2+=array[i][n-i-1];
                                    
                       }
+            if (dg1>=dg2)
+            d=dg1-dg2;
+            else
             d=dg2-dg1;
             System.out.println(d);
             
