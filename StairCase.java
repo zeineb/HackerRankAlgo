@@ -40,7 +40,6 @@ public class StairCase {
                             System.out.println();
                          
     }
-                  
-       
+                       
     }
 }
